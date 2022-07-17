@@ -8,4 +8,9 @@ Este é um site do grupo para treinamento por Gui Santos o mais novo jogador da 
 
 # =====================================
 
+# Parte 2:
+Estar parte 2 coloquei a descrição do site como conquistas e falando um pouco sobre ele.
+
+# =====================================
+
 # Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/

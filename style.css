@@ -7,7 +7,7 @@
 }
 
 .titulo {
-    border: 2px solid;
+    border: 6px solid;
 }
 
 .titulo h1 {
@@ -48,3 +48,42 @@
     border: 4px solid;
 }
 
+/* Parte da descrição */
+
+.descricao_text {
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+}   
+
+.list h3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* RESPOSIVEL */
+
+@media (max-width:600px) {
+
+    
+}
